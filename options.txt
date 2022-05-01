@@ -1,0 +1,4 @@
+--verbose --stream-solver
+--debug
+
+--solver cplexamp --solver-options-string "iisfind=1" --suffix iis

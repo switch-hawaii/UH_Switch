@@ -1,0 +1,5 @@
+period,GenVariableOMCostsInTP,FuelCostsPerTP,PurchasedPowerCost,NonEnergyCharge,TotalGenFixedCosts,StorageEnergyInstallCosts,EmissionsCosts,DemandCharges
+2020,0,0,7.40617e+07,3.66725e+07,0,0,0,1.80524e+07
+2025,0,0,7.0933e+07,4.73062e+07,0,0,0,2.11952e+07
+2030,0,0,5.45484e+07,5.87465e+07,0,0,0,2.4682e+07
+2035,0,0,5.08548e+07,6.83817e+07,0,0,0,2.96952e+07

@@ -1,0 +1,1 @@
+generation_project	period	load_zone	IncrementalPowerCapacityMW	IncrementalEnergyCapacityMWh	OnlinePowerCapacityMW	OnlineEnergyCapacityMWh

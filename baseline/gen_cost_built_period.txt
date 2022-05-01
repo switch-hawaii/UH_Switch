@@ -1,0 +1,5 @@
+period	Rooftop_PV-0	Rooftop_PV-2020	Rooftop_PV-2020_PPA
+2020	0	0	0
+2025	0	0	0
+2030	0	0	0
+2035	0	0	0

@@ -1,0 +1,5 @@
+generation_project,period,load_zone,IncrementalPowerCapacityMW,IncrementalEnergyCapacityMWh,OnlinePowerCapacityMW,OnlineEnergyCapacityMWh
+Battery_Storage,2020,Manoa,0.350207,0.242762,0.350207,0.242762
+Battery_Storage,2025,Manoa,0.0610544,0.0915816,0.411261,0.334344
+Battery_Storage,2030,Manoa,0.483159,0.577345,0.544213,0.668926
+Battery_Storage,2035,Manoa,0.0439234,0,0.527082,0.577345

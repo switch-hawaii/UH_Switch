@@ -1,0 +1,8 @@
+gen_tech,gen_energy_source,period,Energy_GWh_typical_yr,VariableCost_per_yr,DispatchEmissions_tCO2_per_typical_yr
+Battery_Storage,Electricity,2020,0.0,0.0,0
+Battery_Storage,Electricity,2025,0.0,0.0,0
+Battery_Storage,Electricity,2030,0.0,0.0,0
+Battery_Storage,Electricity,2035,0.0,0.0,0
+Rooftop_PV,Solar,2020,0.5703316151979235,0.0,0
+Rooftop_PV,Solar,2025,0.5703316151979235,0.0,0
+Rooftop_PV,Solar,2030,0.5703316151979235,0.0,0

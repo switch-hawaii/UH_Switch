@@ -1,0 +1,9 @@
+load_zone,fuel,period,fuel_cost
+Manoa,Diesel,2020,1.0
+Manoa,Diesel,2025,1.0
+Manoa,Diesel,2030,1.0
+Manoa,Diesel,2035,1.0
+Manoa,NaturalGas,2020,1.0
+Manoa,NaturalGas,2025,1.0
+Manoa,NaturalGas,2030,1.0
+Manoa,NaturalGas,2035,1.0

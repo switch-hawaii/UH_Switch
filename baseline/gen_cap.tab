@@ -1,0 +1,12 @@
+GENERATION_PROJECT	PERIOD	gen_tech	gen_load_zone	gen_energy_source	GenCapacity	GenCapitalCosts	GenFixedOMCosts
+Rooftop_PV-2020	2020	Rooftop_PV	Manoa	Solar	0	0	0
+Rooftop_PV-2020	2025	Rooftop_PV	Manoa	Solar	0	0	0
+Rooftop_PV-2020	2030	Rooftop_PV	Manoa	Solar	0	0	0
+Rooftop_PV-2020	2035	Rooftop_PV	Manoa	Solar	0	0	0
+Rooftop_PV-2020_PPA	2020	Rooftop_PV	Manoa	Solar	0	0	0
+Rooftop_PV-2020_PPA	2025	Rooftop_PV	Manoa	Solar	0	0	0
+Rooftop_PV-2020_PPA	2030	Rooftop_PV	Manoa	Solar	0	0	0
+Rooftop_PV-2020_PPA	2035	Rooftop_PV	Manoa	Solar	0	0	0
+Rooftop_PV-0	2020	Rooftop_PV	Manoa	Solar	0.3	0	0
+Rooftop_PV-0	2025	Rooftop_PV	Manoa	Solar	0.3	0	0
+Rooftop_PV-0	2030	Rooftop_PV	Manoa	Solar	0.3	0	0

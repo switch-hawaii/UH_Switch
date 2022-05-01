@@ -1,0 +1,8 @@
+component	npv_cost
+TotalGenFixedCosts	0
+StorageEnergyInstallCosts	0
+FuelCostsPerTP	0
+NonEnergyCharge	128836787.3194566
+DemandCharges	59665998.05919981
+PurchasedPowerCost	143791960.9762172
+GenVariableOMCostsInTP	0

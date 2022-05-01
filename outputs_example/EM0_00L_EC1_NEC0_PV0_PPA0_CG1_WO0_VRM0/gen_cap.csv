@@ -1,0 +1,11 @@
+GENERATION_PROJECT,PERIOD,gen_tech,gen_load_zone,gen_energy_source,GenCapacity,GenCapitalCosts,GenFixedOMCosts
+Rooftop_PV-0,2020,Rooftop_PV,Manoa,Solar,0.3,0,0
+Rooftop_PV-0,2025,Rooftop_PV,Manoa,Solar,0.3,0,0
+Rooftop_PV-0,2030,Rooftop_PV,Manoa,Solar,0.3,0,0
+Cogen_Power_Plant,2025,NG_CG,Manoa,NaturalGas,0,0,0
+Cogen_Power_Plant,2030,NG_CG,Manoa,NaturalGas,5.58032,816490,976759
+Cogen_Power_Plant,2035,NG_CG,Manoa,NaturalGas,7.94223,1.12887e+06,1.35046e+06
+Battery_Storage,2020,Battery_Storage,Manoa,Electricity,0.350207,0,3502.07
+Battery_Storage,2025,Battery_Storage,Manoa,Electricity,0.411261,0,4112.61
+Battery_Storage,2030,Battery_Storage,Manoa,Electricity,0.544213,0,5442.13
+Battery_Storage,2035,Battery_Storage,Manoa,Electricity,0.527082,0,5270.82
